@@ -1,6 +1,6 @@
-def using_times
+def using_times (string)
  7.times do
-   puts "Winwardium Leviosa"
+   puts "string"
 end
 
 
